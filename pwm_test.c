@@ -24,6 +24,7 @@ extern void pwm_minus_duty(int* fd,int* pwm_duty);
 //add a message to remote 6 in github
 //add a message to remote 6 in local
 //add a message to remote 7 in github
+//add a message to remote 8 in github
 
 
 int main(int argc, char *argv[])
