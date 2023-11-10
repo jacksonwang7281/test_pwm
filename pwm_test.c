@@ -13,6 +13,8 @@
 extern void pwm_plus_duty(int* fd,int* pwm_duty);
 extern void pwm_minus_duty(int* fd,int* pwm_duty);
 
+//add a message to remote
+
 
 int main(int argc, char *argv[])
 {
